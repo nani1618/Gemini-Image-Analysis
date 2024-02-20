@@ -2,7 +2,7 @@ import streamlit as st
 import textwrap
 import os
 import PIL.Image
-from IPython.display import Markdown
+#from IPython.display import Markdown
 import google.generativeai as genai
 
 # Used to securely store your API key
